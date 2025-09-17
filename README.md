@@ -1,3 +1,3 @@
 ## Hi !
 
-I'm Sol, a french music addict, slowly learning how to code !
+I'm Sol, a french music addict, learning how to code !
